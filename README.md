@@ -156,7 +156,7 @@ Create a new `dashboard.ipynb` for your dashboard code.
      4. Dashboard Path where Dashboard.ipynb is located
      5. Execute "panel serve --show dashboard.ipynb" to run the file 
 
-Sample Dashboard:
+Sample Dashboard (Same as Instructions)
 
   ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
